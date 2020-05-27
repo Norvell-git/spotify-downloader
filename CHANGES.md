@@ -8,6 +8,10 @@ The release dates mentioned follow the format `DD-MM-YYYY`.
 
 ## [Unreleased]
 
+## [2.1.0] - N.A.
+### Changed
+- Exit with an appropriate code on bad arguments. ([@ritiek](https://github.com/ritiek)) (#736)
+
 ## [2.0.6] - 26-05-2020
 ### Fixed
 - Fix crash if YouTube search results contains live streams
